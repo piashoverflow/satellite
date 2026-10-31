@@ -1,0 +1,6 @@
+{
+  "name": "Satellite Dynamics & Sync Lab",
+  "description": "Interactive orbital mechanics, Hohmann transfer orbits, synodic conjunctions, and microgravity physics simulation lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
